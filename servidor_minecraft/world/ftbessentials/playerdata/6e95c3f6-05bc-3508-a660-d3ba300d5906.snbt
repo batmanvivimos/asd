@@ -1,0 +1,23 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "Guiso_de_Posho"
+	last_seen: { dim: "minecraft:the_end", x: -1134, y: 68, z: 1535, time: 1762486447671L, xRot: 58.19999f, yRot: 27.646362f }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 7324, y: 2, z: 10062, time: 1762476603896L, xRot: 34.199898f, yRot: -86.459656f }
+		{ dim: "minecraft:overworld", x: 4294, y: -14, z: 6568, time: 1762480005003L, xRot: -11.999663f, yRot: -129.88518f }
+		{ dim: "minecraft:overworld", x: 4827, y: 184, z: 6819, time: 1762481264886L, xRot: 16.79999f, yRot: 15.151299f }
+		{ dim: "minecraft:the_end", x: 347, y: 58, z: -1167, time: 1762482367878L, xRot: 18.30001f, yRot: 124.788025f }
+		{ dim: "minecraft:the_end", x: 387, y: 121, z: -1515, time: 1762482783726L, xRot: 26.100191f, yRot: -82.734406f }
+		{ dim: "minecraft:overworld", x: 4821, y: 184, z: 6823, time: 1762483491084L, xRot: 18.583084f, yRot: -103.22704f }
+		{ dim: "minecraft:overworld", x: 4812, y: 184, z: 6826, time: 1762483622176L, xRot: 42.225426f, yRot: 113.19091f }
+		{ dim: "minecraft:overworld", x: 4723, y: 95, z: 6684, time: 1762484169511L, xRot: 22.649982f, yRot: -121.03235f }
+		{ dim: "minecraft:the_end", x: 24, y: 61, z: -91, time: 1762484866626L, xRot: 76.349976f, yRot: -128.39845f }
+	]
+	homes: {
+		home: { dim: "minecraft:overworld", x: 4815, y: 183, z: 6826, time: 1762313596985L, xRot: 34.349987f, yRot: 134.40125f }
+	}
+}
